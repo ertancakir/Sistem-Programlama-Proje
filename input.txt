@@ -1,0 +1,20 @@
+add|14|Barbie|Metal|Green
+add|10|Book|Plastic|Green
+add|9|He-Man|Glass|Tornado Red
+add|3|Car|Wooden|Tornado Red
+add|18|iPhone|Wooden|Red
+add|8|Ball|Silicon|Green
+add|11|Ball|Wooden|Red
+add|5|Ball|Wooden|Black
+add|13|MacBook|Metal|White
+add|7|Barbie|Plastic|Tornado Red
+add|2|MacBook|Wooden|White
+add|17|He-Man|Glass|Space Gray
+add|12|MacBook|Glass|Green
+add|15|iPhone|Plastic|Green
+add|1|Car|Metal|Tornado Red
+add|6|Car|Silicon|Red
+add|4|iPhone|Wooden|Red
+add|0|iPhone|Silicon|Rose Gold
+add|16|Ball|Plastic|Green
+add|19|Car|Metal|Black
